@@ -1,7 +1,7 @@
 # Hotel Reservation System (Java Console Application)
 
-**Name:** <Your Name>  
-**Roll No:** <Your Roll No>
+**Name:** <Nandhana G J>  
+**Roll No:** <717825E140>
 
 ## Problem Statement
 Design and implement a Java console application for a Hotel Reservation System
